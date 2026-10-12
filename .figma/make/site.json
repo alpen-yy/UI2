@@ -1,0 +1,10 @@
+{
+  "description": "This web application offers users a platform to review and optimize UI designs, enhancing user experience and interface functionality for developers and designers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
